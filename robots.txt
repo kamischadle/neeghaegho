@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eegaequai.kuzorov.com/sitemap.xml
